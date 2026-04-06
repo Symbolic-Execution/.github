@@ -26,10 +26,11 @@ mainnet.
 We are focused on open specifications, public design work, and reference
 implementations.
 
-The current direction is inspired by work across confidential computing and
-private smart contract systems, including projects such as Zama and the broader
-`fhEVM` ecosystem, while aiming to define an independent and openly developed
-model for private, composable execution on Ethereum.
+The current direction is inspired in part by
+[ERC-7984: Confidential Fungible Token](https://eips.ethereum.org/EIPS/eip-7984),
+especially its pointer-based and technology-agnostic approach to confidential
+values, while aiming to define an independent and openly developed model for
+private, composable execution on Ethereum.
 
 ## Open Source Ethos
 
