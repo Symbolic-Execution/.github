@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Symbolic Execution — The open stack for private, composable Ethereum execution" width="100%" />
+</p>
+
 # Symbolic Execution
 
 The open stack for private, composable Ethereum execution.
@@ -35,19 +39,3 @@ The current direction is inspired in part by
 especially its pointer-based and technology-agnostic approach to confidential
 values, while aiming to define an independent and openly developed model for
 private, composable execution on Ethereum.
-
-## Open Source Ethos
-
-We want to build this in public.
-
-That means:
-
-- open specifications
-- public design discussions
-- transparent tradeoffs
-- iterative prototypes
-- reusable components when possible
-
-The goal is not just to publish code. It is to make the ideas, interfaces, and
-design decisions legible enough that other people can challenge them, implement
-them, and build on top of them.
