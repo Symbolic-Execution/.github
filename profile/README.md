@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Symbolic Execution — The open stack for private, composable Ethereum execution" width="100%" />
-</p>
-
 # Symbolic Execution
 
 The open stack for private, composable Ethereum execution.
